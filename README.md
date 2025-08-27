@@ -2,35 +2,35 @@
 
 ## Skills
 
-- CMS & E-Commerce Platforms
-•	Shopify, Shopify Plus, WooCommerce, WordPress, Shopify's Hydrogen, BigCommerce, EC-Cube, Webflow, Wix, Magento, Shogun, PageFly, Replo
+- 🌱 CMS & E-Commerce Platforms</br>
+	Shopify, Shopify Plus, WooCommerce, WordPress, Shopify's Hydrogen, BigCommerce, EC-Cube, Webflow, Wix, Magento, Shogun, PageFly, Replo
 
-- Frontend Development
-•	React.js, Next.js, Vue.js, Angular, HTML5, CSS3, SCSS, Tailwind CSS, JavaScript, TypeScript, Liquid, jQuery, Bootstrap, Storybook
+- 🔭 Frontend Development</br>
+	React.js, Next.js, Vue.js, Angular, HTML5, CSS3, SCSS, Tailwind CSS, JavaScript, TypeScript, Liquid, jQuery, Bootstrap, Storybook
 
-- Backend Development & Logic
-•	Node.js, Express.js, PHP, Python, Laravel, GraphQL, RESTful APIs, Shopify API, WooCommerce REST API, EC-Cube API
+- ⚡ Backend Development & Logic</br>
+	Node.js, Express.js, PHP, Python, Laravel, GraphQL, RESTful APIs, Shopify API, WooCommerce REST API, EC-Cube API
 
-- Automation & Integration Tools
-•	Zapier, Make.com (Integromat), Pabbly, Klaviyo, Segment, Google Tag Manager, Shopify Flow, Webhooks, Retool, Airtable, Noloco
+- 🧩 Automation & Integration Tools</br>
+	Zapier, Make.com (Integromat), Pabbly, Klaviyo, Segment, Google Tag Manager, Shopify Flow, Webhooks, Retool, Airtable, Noloco
 
-- Databases & Storage
-•	MySQL, PostgreSQL, Firebase, MongoDB, Oracle PL/SQL, Amazon DynamoDB, Supabase
+- 🔥 Databases & Storage</br>
+	MySQL, PostgreSQL, Firebase, MongoDB, Oracle PL/SQL, Amazon DynamoDB, Supabase
 
-- Analytics & CRO
-•	Google Analytics (Universal + GA4), Hotjar, Mixpanel, A/B Testing, Conversion Funnel Optimization, SEO Auditing, GTM, Google Search Console
+- 💬 Analytics & CRO</br>
+	Google Analytics (Universal + GA4), Hotjar, Mixpanel, A/B Testing, Conversion Funnel Optimization, SEO Auditing, GTM, Google Search Console
 
-- Payments & Logistics Integration
-•	Stripe, PayPal, Square, AfterPay, Paidy, Konbini, ShipStation, EasyPost, Printful, Shopify Shipping
+- 💵 Payments & Logistics Integration</br>
+	Stripe, PayPal, Square, AfterPay, Paidy, Konbini, ShipStation, EasyPost, Printful, Shopify Shipping
 
-- DevOps & Cloud
-•	Git, GitHub, GitLab CI/CD, Bitbucket, Docker, AWS (Lambda, API Gateway, ECS, S3), Vercel, Netlify, Cloudflare, Firebase Hosting
+- 💻 DevOps & Cloud</br>
+	Git, GitHub, GitLab CI/CD, Bitbucket, Docker, AWS (Lambda, API Gateway, ECS, S3), Vercel, Netlify, Cloudflare, Firebase Hosting
 
-- Testing & QA
-•	Jest, React Testing Library, Cypress, Postman, Lighthouse, Chrome DevTools, BrowserStack
+- 🧪 Testing & QA</br>
+	Jest, React Testing Library, Cypress, Postman, Lighthouse, Chrome DevTools, BrowserStack
 
-- Project & Team Tools
-•	Jira, Trello, Slack, Notion, Figma, Miro, Confluence, Zoom, Microsoft Teams
+- 🪄 Project & Team Tools</br>
+	Jira, Trello, Slack, Notion, Figma, Miro, Confluence, Zoom, Microsoft Teams
 
 
 ## My Github Stats
