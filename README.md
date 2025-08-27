@@ -1,5 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+ECommerce+CMS+Developer;)]()
 
+## Summary
+
+👋 Hi, I’m a Senior Full Stack E-Commerce & CMS Developer with 9+ years of experience building scalable solutions across Shopify, WordPress, WooCommerce, and modern JavaScript frameworks (React, Next.js, Node.js).
+
+I specialize in:
+- Custom theme & plugin development (WordPress, WooCommerce, Shopify)
+- Headless architecture (Shopify + Next.js, Hydrogen)
+- API integrations & automation (Zapier, Make.com, custom APIs)
+- Performance optimization & CRO (SEO, analytics, A/B testing)
+- Cloud & serverless development (AWS Lambda, Docker, CI/CD)
+
+I’ve worked with companies in the US, Canada, and Japan, leading teams, solving complex e-commerce challenges, and delivering measurable business growth. My projects often focus on boosting site performance, conversion rates, and user experience.
+
+💡 “A jack of all trades is a master of none, but oftentimes better than master of one.”
+This reflects my approach—versatile across the stack, yet deeply specialized in delivering tailored, business-focused solutions.
+
+🚀 Let’s build something impactful!
+
 ## Skills
 
 - 🌱 CMS & E-Commerce Platforms</br>
@@ -53,18 +71,18 @@
   </a>
 </p>
 
-`<b>`☄️ Github Streaks`</b>`
+<!-- `<b>`☄️ Github Streaks`</b>`
 
 <p align="center">
   <br />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErPing-CMS&theme=gotham&hide_border=true" />
-</p>
+</p> -->
 
-`<b>`📊 Total Contribution Graph`</b>`
+<!-- `<b>`📊 Total Contribution Graph`</b>`
 
 </br>
 <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=ErPing-CMS&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErPing-CMS&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
-</p>
+</p> -->
