@@ -27,7 +27,7 @@ This reflects my approach—versatile across the stack, yet deeply specialized i
 	React.js, Next.js, Vue.js, Angular, HTML5, CSS3, SCSS, Tailwind CSS, JavaScript, TypeScript, Liquid, jQuery, Bootstrap, Storybook
 
 - ⚡ Backend Development & Logic</br>
-	Node.js, Express.js, PHP, Python, Laravel, GraphQL, RESTful APIs, Shopify API, WooCommerce REST API, EC-Cube API
+	Node.js, Express.js, PHP, Python/Django, Laravel, GraphQL, RESTful APIs, Shopify API, WooCommerce REST API, EC-Cube API
 
 - 🧩 Automation & Integration Tools</br>
 	Zapier, Make.com (Integromat), Pabbly, Klaviyo, Segment, Google Tag Manager, Shopify Flow, Webhooks, Retool, Airtable, Noloco
