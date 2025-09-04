@@ -21,7 +21,7 @@ This reflects my approach—versatile across the stack, yet deeply specialized i
 ## Skills
 
 - 🌱 CMS & E-Commerce Platforms</br>
-	Shopify, Shopify Plus, WooCommerce, WordPress, Shopify's Hydrogen, BigCommerce, EC-Cube, Webflow, Wix, Magento, Shogun, PageFly, Replo
+	Shopify, Shopify Plus, WooCommerce, WordPress, Shopify's Hydrogen, BigCommerce, EC-Cube, Webflow, Wix, Magento, Shogun, PageFly, Replo, Wagtail, Sitecore
 
 - 🔭 Frontend Development</br>
 	React.js, Next.js, Vue.js, Angular, HTML5, CSS3, SCSS, Tailwind CSS, JavaScript, TypeScript, Liquid, jQuery, Bootstrap, Storybook
