@@ -51,7 +51,6 @@ This reflects my approach—versatile across the stack, yet deeply specialized i
 	Jira, Trello, Slack, Notion, Figma, Miro, Confluence, Zoom, Microsoft Teams
 
 
-
 ## My Github Stats
 
 `<b>`⚡ Github stats`</b>`
