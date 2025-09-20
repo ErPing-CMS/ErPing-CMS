@@ -2,16 +2,8 @@
 
 ## Summary
 
-👋 Hi, I’m a Senior Full Stack E-Commerce & CMS Developer with 9+ years of experience building scalable solutions across Shopify, WordPress, WooCommerce, and modern JavaScript frameworks (React, Next.js, Node.js).
-<!-- 
-I specialize in:
-- Custom theme & plugin development (WordPress, WooCommerce, Shopify)
-- Headless architecture (Shopify + Next.js, Hydrogen)
-- API integrations & automation (Zapier, Make.com, custom APIs)
-- Performance optimization & CRO (SEO, analytics, A/B testing)
-- Cloud & serverless development (AWS Lambda, Docker, CI/CD) -->
-
-I’ve worked with companies in the US, Canada, and Japan, leading teams, solving complex e-commerce challenges, and delivering measurable business growth. My projects often focus on boosting site performance, conversion rates, and user experience.
+👋 Hi, I’m a Dedicated E-Commerce Expert with 8+ years of experience driving growth and delivering tailored digital solutions across Shopify, Shopify Plus, WooCommerce, BigCommerce, and automation platforms. 
+I specialize in theme customization, app integrations, payment gateway solutions, and SEO-driven CRO strategies that boost sales and user engagement.
 
 💡 “A jack of all trades is a master of none, but oftentimes better than master of one.”
 This reflects my approach—versatile across the stack, yet deeply specialized in delivering tailored, business-focused solutions.
