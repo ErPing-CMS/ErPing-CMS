@@ -2,10 +2,8 @@
 
 ## Welcome to My Professional Portfolio
 
-👋 Hi, I'm a Dedicated E-Commerce Expert with 8+ years of experience driving growth and delivering tailored digital solutions across Shopify, Shopify Plus, WooCommerce, BigCommerce, and automation platforms.
+👋 Hi, I'm a Dedicated E-Commerce Expert with 8+ years of experience driving growth and delivering tailored digital solutions across Shopify, Shopify Plus, WooCommerce, WordPress, BigCommerce, and automation platforms.
 
-💡 **"A jack of all trades is a master of none, but oftentimes better than master of one."**
-This reflects my approach—versatile across the stack, yet deeply specialized in delivering tailored, business-focused solutions.
 
 🚀 [**View My Interactive Portfolio**](https://ecommerce-expert-dev001.vercel.app/)
 
