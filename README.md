@@ -4,7 +4,7 @@
 
 👋 Hi, I'm a Dedicated E-Commerce Expert with 8+ years of experience driving growth and delivering tailored digital solutions across Shopify, Shopify Plus, WooCommerce, BigCommerce, and automation platforms.
 
-🚀 [**View My Interactive Portfolio**](https://ecommerce-expert-dev001.vercel.app/) | [**Location Map**](#location)
+🚀 [**View My Interactive Portfolio**](https://ecommerce-expert-dev001.vercel.app/) 
 
 ## Skills
 
