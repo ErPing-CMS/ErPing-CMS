@@ -91,7 +91,14 @@
                         </div>
                     </div>
                     <div class="map-container">
-                        <div id="map"></div>
+                        <div id="map">
+                            <div class="map-placeholder">
+                                <i class="fas fa-map-marked-alt fa-3x"></i>
+                                <p>Interactive Map</p>
+                                <p class="small">Location: Columbia Falls, MT</p>
+                                <p class="small note">For security, API key is not exposed in public repository</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -105,6 +112,12 @@
 
     <!-- Scripts -->
     <script src="script.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>
+    <!-- 
+        For security reasons, the Google Maps API key is not included in this public repository.
+        To enable the interactive map:
+        1. Get a Google Maps API key from https://console.cloud.google.com/
+        2. Uncomment the script below and replace YOUR_API_KEY with your actual key
+    -->
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script> -->
 </body>
 </html>

@@ -1,13 +1,13 @@
 /* Night Mode Theme Styles */
 :root {
-    --primary-bg: #121212;
-    --secondary-bg: #1e1e1e;
-    --card-bg: #2d2d2d;
+    --primary-bg: #010409;
+    --secondary-bg: #161b22;
+    --card-bg: #21262d;
     --text-primary: #ffffff;
     --text-secondary: #b0b0b0;
     --accent-color: #bb86fc;
     --accent-color-hover: #d0a6ff;
-    --border-color: #444444;
+    --border-color: #30363d;
     --shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
 }
 
@@ -234,10 +234,37 @@ section h2::after {
     width: 100%;
     height: 100%;
     background-color: var(--card-bg);
+}
+
+.map-placeholder {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+    height: 100%;
     color: var(--text-secondary);
+    text-align: center;
+    padding: 20px;
+}
+
+.map-placeholder i {
+    color: var(--accent-color);
+    margin-bottom: 15px;
+}
+
+.map-placeholder p {
+    margin: 5px 0;
+}
+
+.map-placeholder .small {
+    font-size: 0.9rem;
+}
+
+.map-placeholder .note {
+    font-style: italic;
+    color: #ff6b6b;
+    margin-top: 10px;
+    font-size: 0.8rem;
 }
 
 /* Footer */

@@ -1,7 +1,13 @@
 // script.js - Interactive features and Google Maps integration
 
-// Initialize Google Map
+// Initialize Google Map (only if API key is provided)
 function initMap() {
+    // Check if google.maps is available
+    if (typeof google === 'undefined' || typeof google.maps === 'undefined') {
+        console.warn('Google Maps API not loaded - skipping map initialization');
+        return;
+    }
+    
     // Coordinates for Columbia Falls, MT
     const location = { lat: 48.3563, lng: -114.1986 };
     
@@ -151,6 +157,12 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 600);
         });
     });
+    
+    // Try to initialize map if API is available
+    // This will only work if the Google Maps script is loaded with a valid API key
+    if (typeof google !== 'undefined' && typeof google.maps !== 'undefined') {
+        initMap();
+    }
 });
 
 // Add scroll animation for sections

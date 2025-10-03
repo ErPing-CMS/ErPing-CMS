@@ -2,8 +2,10 @@
 
 ## Welcome to My Professional Portfolio
 
-👋 Hi, I'm a Dedicated E-Commerce Expert with 8+ years of experience driving growth and delivering tailored digital solutions across Shopify, Shopify Plus, WooCommerce, WordPress, BigCommerce, and automation platforms.
+👋 Hi, I'm a Dedicated E-Commerce Expert with 8+ years of experience driving growth and delivering tailored digital solutions across Shopify, Shopify Plus, WooCommerce, BigCommerce, and automation platforms.
 
+💡 **"A jack of all trades is a master of none, but oftentimes better than master of one."**
+This reflects my approach—versatile across the stack, yet deeply specialized in delivering tailored, business-focused solutions.
 
 🚀 [**View My Interactive Portfolio**](https://ecommerce-expert-dev001.vercel.app/)
 
@@ -23,6 +25,23 @@
 📱 **Telegram:** [@ErPing0x](https://t.me/ErPing0x)  
 📘 **Facebook:** [bmars8218](https://www.facebook.com/bmars8218/)  
 🐦 **Twitter:** [@Angou3672](https://x.com/Angou3672)
+
+## Enabling the Interactive Map
+
+To enable the Google Maps interactive feature while keeping your API key secure:
+
+1. Get a Google Maps API key from the [Google Cloud Console](https://console.cloud.google.com/)
+2. Create a `.env` file in the root directory:
+   ```env
+   GOOGLE_MAPS_API_KEY=your_actual_api_key_here
+   ```
+3. Run the build script:
+   ```bash
+   npm run build
+   ```
+4. The production-ready HTML file with your API key will be created in the `dist/` folder
+
+**Note:** The `.env` file is included in `.gitignore` and will never be committed to the repository.
 
 ---
 
