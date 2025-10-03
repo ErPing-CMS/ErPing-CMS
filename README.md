@@ -1,52 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+ECommerce+CMS+Developer;)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+E-Commerce+Expert;)]()
 
-## Summary
+## Welcome to My Professional Portfolio
 
-👋 Hi, I’m a Dedicated E-Commerce Expert with 8+ years of experience driving growth and delivering tailored digital solutions across Shopify, Shopify Plus, WooCommerce, BigCommerce, and automation platforms. 
-I specialize in theme customization, app integrations, payment gateway solutions, and SEO-driven CRO strategies that boost sales and user engagement.
+👋 Hi, I'm a Dedicated E-Commerce Expert with 8+ years of experience driving growth and delivering tailored digital solutions across Shopify, Shopify Plus, WooCommerce, BigCommerce, and automation platforms.
 
-💡 “A jack of all trades is a master of none, but oftentimes better than master of one.”
+💡 **"A jack of all trades is a master of none, but oftentimes better than master of one."**
 This reflects my approach—versatile across the stack, yet deeply specialized in delivering tailored, business-focused solutions.
 
-🚀 Let’s build something impactful!
+🚀 [**View My Interactive Portfolio**](https://ecommerce-expert-dev001.vercel.app/)
 
 ## Skills
 
-- 🌱 CMS & E-Commerce Platforms</br>
-	Shopify, Shopify Plus, WooCommerce, WordPress, Shopify's Hydrogen, BigCommerce, EC-Cube, Webflow, Wix, Magento, Shogun, PageFly, Replo, Wagtail, Sitecore
+- 🌱 **E-Commerce Platforms:** Shopify, Shopify Plus, WooCommerce, WordPress, BigCommerce, Webflow, Wix
+- 🔭 **Frontend Development:** React.js, Next.js, Vue.js, Angular, HTML5, CSS3, SCSS, Tailwind CSS, JavaScript, TypeScript
+- ⚡ **Backend Development:** Node.js, Express.js, PHP, Python/Django, GraphQL, RESTful APIs
+- 🧩 **Automation Tools:** Zapier, Make.com, Klaviyo, Segment, Shopify Flow, Webhooks, Airtable, Retool
+- 💵 **Payment & Logistics:** Stripe, PayPal, Square, AfterPay, Paidy, ShipStation, EasyPost, Printful
+- 💻 **DevOps & Cloud:** Git, GitHub, Docker, AWS, Vercel, Netlify, Cloudflare
 
-- 🔭 Frontend Development</br>
-	React.js, Next.js, Vue.js, Angular, HTML5, CSS3, SCSS, Tailwind CSS, JavaScript, TypeScript, Liquid, jQuery, Bootstrap, Storybook
+## Contact Information
 
-- ⚡ Backend Development & Logic</br>
-	Node.js, Express.js, PHP, Python/Django, Laravel, GraphQL, RESTful APIs, Shopify API, WooCommerce REST API, EC-Cube API
+📧 **Email:** bmars8218@gmail.com  
+📍 **Location:** 7th St W, Columbia Falls, MT 59912  
+📱 **Telegram:** [@ErPing0x](https://t.me/ErPing0x)  
+📘 **Facebook:** [bmars8218](https://www.facebook.com/bmars8218/)  
+🐦 **Twitter:** [@Angou3672](https://x.com/Angou3672)
 
-- 🧩 Automation & Integration Tools</br>
-	Zapier, Make.com (Integromat), Pabbly, Klaviyo, Segment, Google Tag Manager, Shopify Flow, Webhooks, Retool, Airtable, Noloco
-
-- 🔥 Databases & Storage</br>
-	MySQL, PostgreSQL, Firebase, MongoDB, Oracle PL/SQL, Amazon DynamoDB, Supabase
-
-- 💬 Analytics & CRO</br>
-	Google Analytics (Universal + GA4), Hotjar, Mixpanel, A/B Testing, Conversion Funnel Optimization, SEO Auditing, GTM, Google Search Console
-
-- 💵 Payments & Logistics Integration</br>
-	Stripe, PayPal, Square, AfterPay, Paidy, Konbini, ShipStation, EasyPost, Printful, Shopify Shipping
-
-- 💻 DevOps & Cloud</br>
-	Git, GitHub, GitLab CI/CD, Bitbucket, Docker, AWS (Lambda, API Gateway, ECS, S3), Vercel, Netlify, Cloudflare, Firebase Hosting
-
-- 🧪 Testing & QA</br>
-	Jest, React Testing Library, Cypress, Postman, Lighthouse, Chrome DevTools, BrowserStack
-
-- 🪄 Project & Team Tools</br>
-	Jira, Trello, Slack, Notion, Figma, Miro, Confluence, Zoom, Microsoft Teams
-
-
-## My Github Stats
-
-`<b>`⚡ Github stats`</b>`
-    `<br />`
+---
 
 <p align="center">
   <a href="https://github.com/ErPing-CMS" target="_blank" rel="noopener noreferrer">
@@ -62,19 +42,3 @@ This reflects my approach—versatile across the stack, yet deeply specialized i
     />
   </a>
 </p>
-
-<!-- `<b>`☄️ Github Streaks`</b>`
-
-<p align="center">
-  <br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErPing-CMS&theme=gotham&hide_border=true" />
-</p> -->
-
-<!-- `<b>`📊 Total Contribution Graph`</b>`
-
-</br>
-<p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=ErPing-CMS&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErPing-CMS&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p> -->
