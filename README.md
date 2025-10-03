@@ -18,7 +18,6 @@
 ## Contact Information
 
 📧 **Email:** bmars8218@gmail.com  
-📍 **Location:** 7th St W, Columbia Falls, MT 59912  
 📱 **Telegram:** [@ErPing0x](https://t.me/ErPing0x)  
 📘 **Facebook:** [bmars8218](https://www.facebook.com/bmars8218/)  
 🐦 **Twitter:** [@Angou3672](https://x.com/Angou3672)
