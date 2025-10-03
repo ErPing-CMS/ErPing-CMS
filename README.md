@@ -7,7 +7,7 @@
 💡 **"A jack of all trades is a master of none, but oftentimes better than master of one."**
 This reflects my approach—versatile across the stack, yet deeply specialized in delivering tailored, business-focused solutions.
 
-🚀 [**View My Interactive Portfolio**](https://ecommerce-expert-dev001.vercel.app/)
+🚀 [**View My Interactive Portfolio**](https://ecommerce-expert-dev001.vercel.app/) | [**Location Map**](#location)
 
 ## Skills
 
@@ -26,6 +26,15 @@ This reflects my approach—versatile across the stack, yet deeply specialized i
 📘 **Facebook:** [bmars8218](https://www.facebook.com/bmars8218/)  
 🐦 **Twitter:** [@Angou3672](https://x.com/Angou3672)
 
+## Location
+
+<div align="center">
+  <img src="https://maps.googleapis.com/maps/api/staticmap?center=48.3563,-114.1986&zoom=10&size=600x300&maptype=roadmap&markers=color:red%7Clabel:Here%7C48.3563,-114.1986&key=AIzaSyCFU90x34pG0N63YI6f8Z1d4cJh8b3N7R0" alt="Location Map" width="100%" style="border-radius: 10px; max-width: 600px;">
+  <p><em>Columbia Falls, MT - Where I'm based</em></p>
+</div>
+
+Note: For an interactive map with my exact location, please visit my [portfolio website](https://ecommerce-expert-dev001.vercel.app/).
+ 
 
 <p align="center">
   <a href="https://github.com/ErPing-CMS" target="_blank" rel="noopener noreferrer">
