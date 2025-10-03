@@ -1,4 +1,3 @@
-<div style="background-color: #000000; padding: 20px; border-radius: 10px; color: #ffffff;">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+E-Commerce+Expert;)]()
 
 ## Welcome to My Professional Portfolio
@@ -38,4 +37,3 @@
     />
   </a>
 </p>
-</div>
