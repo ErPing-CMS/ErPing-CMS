@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+E-Commerce+Expert;)]()
 
-## Welcome to My Professional Portfolio
-
 👋 Hi, I'm a Dedicated E-Commerce Expert with 8+ years of experience driving growth and delivering tailored digital solutions across Shopify, Shopify Plus, WooCommerce, BigCommerce, and automation platforms.
-
-🚀 [**View My Interactive Portfolio**](https://ecommerce-expert-dev001.vercel.app/) 
 
 ## Skills
 
