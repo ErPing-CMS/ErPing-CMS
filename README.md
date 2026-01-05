@@ -11,13 +11,6 @@
 - 💵 **Payment & Logistics:** Stripe, PayPal, Square, AfterPay, Paidy, ShipStation, EasyPost, Printful
 - 💻 **DevOps & Cloud:** Git, GitHub, Docker, AWS, Vercel, Netlify, Cloudflare
 
-## Contact Information
-
-📧 **Email:** bmars8218@gmail.com  
-📱 **Telegram:** [@Bmars8218](https://t.me/Bmars8218)  
-📘 **Facebook:** [bmars8218](https://www.facebook.com/bmars8218/)  
-🐦 **Twitter:** [@Angou3672](https://x.com/Angou3672)
- 
 
 <p align="center">
   <a href="https://github.com/ErPing-CMS" target="_blank" rel="noopener noreferrer">
