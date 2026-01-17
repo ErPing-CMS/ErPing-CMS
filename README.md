@@ -1,16 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+E-Commerce+Expert;)]()
-
-👋 Hi, I'm a Dedicated E-Commerce Expert with 8+ years of experience driving growth and delivering tailored digital solutions across Shopify, Shopify Plus, WooCommerce, BigCommerce, and automation platforms.
-
-## Skills
-
-- 🌱 **E-Commerce Platforms:** Shopify, Shopify Plus, WooCommerce, WordPress, BigCommerce, Webflow, Wix
-- 🔭 **Frontend Development:** React.js, Next.js, Vue.js, Angular, HTML5, CSS3, SCSS, Tailwind CSS, JavaScript, TypeScript
-- ⚡ **Backend Development:** Node.js, Express.js, PHP, Python/Django, GraphQL, RESTful APIs
-- 🧩 **Automation Tools:** Zapier, Make.com, Klaviyo, Segment, Shopify Flow, Webhooks, Airtable, Retool
-- 💵 **Payment & Logistics:** Stripe, PayPal, Square, AfterPay, Paidy, ShipStation, EasyPost, Printful
-- 💻 **DevOps & Cloud:** Git, GitHub, Docker, AWS, Vercel, Netlify, Cloudflare
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+E-Commerce+Full+Stack+Developer;)]()
 
 <p align="center">
   <a href="https://github.com/ErPing-CMS" target="_blank" rel="noopener noreferrer">
